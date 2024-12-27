@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+numpy
+mediapipe
+tensorflow
+sqlite3
+uuid
+json5
